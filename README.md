@@ -8,6 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziajoriii7&theme=buefy" alt="Top Langs"/>
 </div>
 
+<div align="center">
+<a href="https://wakatime.com/@49dba2c5-26e1-43a7-9d07-e0f8613d1227"><img src="https://wakatime.com/badge/user/49dba2c5-26e1-43a7-9d07-e0f8613d1227.svg" alt="Total time coded since Mar 29 2023" /></a>
+</div>
 
 
 <div style="display: flex;">
